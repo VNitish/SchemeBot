@@ -1,0 +1,957 @@
+[
+  {
+    "id": "pmjdy",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "name_hi": "प्रधानमंत्री जन धन योजना (पीएमजेडीवाई)",
+    "description": "Financial inclusion program that aims to expand and make affordable access to financial services such as bank accounts, remittances, credit, insurance and pensions.",
+    "description_hi": "वित्तीय समावेशन कार्यक्रम जिसका उद्देश्य बैंक खातों, प्रेषण, ऋण, बीमा और पेंशन जैसी वित्तीय सेवाओं तक किफायती पहुंच का विस्तार करना है।",
+    "eligibility": "Indian citizens above 10 years of age. One account per household.",
+    "eligibility_hi": "10 वर्ष से अधिक आयु के भारतीय नागरिक। प्रति परिवार एक खाता।",
+    "benefits": [
+      "Zero balance savings account",
+      "RuPay debit card with ₹1 lakh accident insurance cover",
+      "Overdraft facility up to ₹10,000",
+      "Direct Benefit Transfer for various government schemes"
+    ],
+    "benefits_hi": [
+      "जीरो बैलेंस बचत खाता",
+      "₹1 लाख दुर्घटना बीमा कवर के साथ रुपे डेबिट कार्ड",
+      "₹10,000 तक की ओवरड्राफ्ट सुविधा",
+      "विभिन्न सरकारी योजनाओं के लिए प्रत्यक्ष लाभ हस्तांतरण"
+    ],
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN, Voter ID, etc.)",
+      "Address proof"
+    ],
+    "documents_required_hi": [
+      "पहचान प्रमाण (आधार, पैन, वोटर आईडी, आदि)",
+      "पता प्रमाण"
+    ],
+    "how_to_apply": "Visit nearest bank branch or post office with required documents to open a PMJDY account.",
+    "how_to_apply_hi": "पीएमजेडीवाई खाता खोलने के लिए आवश्यक दस्तावेजों के साथ निकटतम बैंक शाखा या डाकघर पर जाएं।",
+    "link": "https://www.pmjdy.gov.in/",
+    "category": "Financial Inclusion",
+    "category_hi": "वित्तीय समावेशन",
+    "implementing_agency": "Department of Financial Services",
+    "implementing_agency_hi": "वित्तीय सेवा विभाग",
+    "target_demographics": {
+      "min_age": 10,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmjjby",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "name_hi": "प्रधानमंत्री जीवन ज्योति बीमा योजना (पीएमजेजेबीवाई)",
+    "description": "Life insurance scheme offering coverage for death due to any reason.",
+    "description_hi": "जीवन बीमा योजना जो किसी भी कारण से मृत्यु के लिए कवरेज प्रदान करती है।",
+    "eligibility": "Any Indian citizen between 18-50 years of age with a bank account.",
+    "eligibility_hi": "बैंक खाते वाले 18-50 वर्ष की आयु के बीच के कोई भी भारतीय नागरिक।",
+    "benefits": [
+      "Life insurance cover of ₹2 lakh in case of death",
+      "Annual premium of only ₹330"
+    ],
+    "benefits_hi": [
+      "मृत्यु की स्थिति में ₹2 लाख का जीवन बीमा कवर",
+      "केवल ₹330 का वार्षिक प्रीमियम"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Visit your bank branch or apply online through net banking.",
+    "how_to_apply_hi": "अपनी बैंक शाखा पर जाएं या नेट बैंकिंग के माध्यम से ऑनलाइन आवेदन करें।",
+    "link": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Jeevan-Jyoti-Bima-Yojana(PMJJBY)",
+    "category": "Insurance",
+    "category_hi": "बीमा",
+    "implementing_agency": "Department of Financial Services",
+    "implementing_agency_hi": "वित्तीय सेवा विभाग",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmsby",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "name_hi": "प्रधानमंत्री सुरक्षा बीमा योजना (पीएमएसबीवाई)",
+    "description": "Accident insurance scheme offering coverage for accidental death and disability.",
+    "description_hi": "दुर्घटना बीमा योजना जो दुर्घटना से मृत्यु और विकलांगता के लिए कवरेज प्रदान करती है।",
+    "eligibility": "Any Indian citizen between 18-70 years of age with a bank account.",
+    "eligibility_hi": "बैंक खाते वाले 18-70 वर्ष की आयु के बीच के कोई भी भारतीय नागरिक।",
+    "benefits": [
+      "Accidental death coverage of ₹2 lakh",
+      "Permanent total disability coverage of ₹2 lakh",
+      "Permanent partial disability coverage of ₹1 lakh",
+      "Annual premium of only ₹12"
+    ],
+    "benefits_hi": [
+      "दुर्घटना से मृत्यु का ₹2 लाख का कवरेज",
+      "स्थायी पूर्ण विकलांगता का ₹2 लाख का कवरेज",
+      "स्थायी आंशिक विकलांगता का ₹1 लाख का कवरेज",
+      "केवल ₹12 का वार्षिक प्रीमियम"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Visit your bank branch or apply online through net banking.",
+    "how_to_apply_hi": "अपनी बैंक शाखा पर जाएं या नेट बैंकिंग के माध्यम से ऑनलाइन आवेदन करें।",
+    "link": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)",
+    "category": "Insurance",
+    "category_hi": "बीमा",
+    "implementing_agency": "Department of Financial Services",
+    "implementing_agency_hi": "वित्तीय सेवा विभाग",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 70,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "apy",
+    "name": "Atal Pension Yojana (APY)",
+    "name_hi": "अटल पेंशन योजना (एपीवाई)",
+    "description": "Pension scheme focused on workers in the unorganized sector, guaranteeing a minimum pension after 60 years of age.",
+    "description_hi": "असंगठित क्षेत्र के कर्मचारियों पर केंद्रित पेंशन योजना, जो 60 वर्ष की आयु के बाद न्यूनतम पेंशन की गारंटी देती है।",
+    "eligibility": "Indian citizens between 18-40 years. Must have a savings bank account.",
+    "eligibility_hi": "18-40 वर्ष के बीच के भारतीय नागरिक। बचत बैंक खाता होना चाहिए।",
+    "benefits": [
+      "Fixed pension of ₹1,000 to ₹5,000 per month after age 60",
+      "Government contribution of 50% of the subscriber's contribution or ₹1,000 per annum, whichever is lower (for those not income tax payers)"
+    ],
+    "benefits_hi": [
+      "60 वर्ष की आयु के बाद ₹1,000 से ₹5,000 प्रति माह की निश्चित पेंशन",
+      "सरकारी योगदान ग्राहक के योगदान का 50% या ₹1,000 प्रति वर्ष, जो भी कम हो (जो आयकर दाता नहीं हैं उनके लिए)"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Visit nearest bank branch or apply online through net banking.",
+    "how_to_apply_hi": "निकटतम बैंक शाखा पर जाएं या नेट बैंकिंग के माध्यम से ऑनलाइन आवेदन करें।",
+    "link": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "category": "Pension",
+    "category_hi": "पेंशन",
+    "implementing_agency": "Pension Fund Regulatory and Development Authority",
+    "implementing_agency_hi": "पेंशन निधि नियामक और विकास प्राधिकरण",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": ["All"],
+      "income": ["Unorganized sector workers"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmay",
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "name_hi": "प्रधानमंत्री आवास योजना (पीएमएवाई)",
+    "description": "Housing scheme that aims to provide affordable housing to the urban and rural poor.",
+    "description_hi": "आवास योजना जिसका उद्देश्य शहरी और ग्रामीण गरीबों को किफायती आवास प्रदान करना है।",
+    "eligibility": "Urban: Economically Weaker Section (EWS) with annual income up to ₹3 lakh and Lower Income Group (LIG) with annual income between ₹3-6 lakh. Rural: Households without a pucca house.",
+    "eligibility_hi": "शहरी: आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस) जिनकी वार्षिक आय ₹3 लाख तक है और निम्न आय वर्ग (एलआईजी) जिनकी वार्षिक आय ₹3-6 लाख के बीच है। ग्रामीण: पक्के घर के बिना परिवार।",
+    "benefits": [
+      "Urban: Credit-linked subsidy of up to ₹2.67 lakh on home loans",
+      "Rural: Financial assistance of ₹1.2 lakh to ₹1.3 lakh for constructing houses"
+    ],
+    "benefits_hi": [
+      "शहरी: गृह ऋण पर ₹2.67 लाख तक की क्रेडिट-लिंक्ड सब्सिडी",
+      "ग्रामीण: घर निर्माण के लिए ₹1.2 लाख से ₹1.3 लाख तक की वित्तीय सहायता"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Income certificate",
+      "Land documents (for rural component)"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "आय प्रमाण पत्र",
+      "भूमि दस्तावेज़ (ग्रामीण घटक के लिए)"
+    ],
+    "how_to_apply": "Urban: Apply through banks/housing finance companies. Rural: Apply through Gram Panchayat.",
+    "how_to_apply_hi": "शहरी: बैंकों/आवास वित्त कंपनियों के माध्यम से आवेदन करें। ग्रामीण: ग्राम पंचायत के माध्यम से आवेदन करें।",
+    "link": "https://pmaymis.gov.in/",
+    "category": "Housing",
+    "category_hi": "आवास",
+    "implementing_agency": "Ministry of Housing and Urban Affairs (Urban) / Ministry of Rural Development (Rural)",
+    "implementing_agency_hi": "आवास और शहरी मामलों के मंत्रालय (शहरी) / ग्रामीण विकास मंत्रालय (ग्रामीण)",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Low income households"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmkisan",
+    "name": "PM Kisan Samman Nidhi (PM-KISAN)",
+    "name_hi": "पीएम किसान सम्मान निधि (पीएम-किसान)",
+    "description": "Income support scheme for farmers providing up to ₹6,000 per year in three equal installments.",
+    "description_hi": "किसानों के लिए आय समर्थन योजना जो तीन समान किस्तों में प्रति वर्ष ₹6,000 तक प्रदान करती है।",
+    "eligibility": "All landholding farmer families with cultivable land, subject to certain exclusions.",
+    "eligibility_hi": "कुछ अपवर्जन के अधीन, खेती योग्य भूमि वाले सभी भूमि धारक किसान परिवार।",
+    "benefits": [
+      "Direct income support of ₹6,000 per year",
+      "Amount transferred directly to bank accounts in three installments"
+    ],
+    "benefits_hi": [
+      "प्रति वर्ष ₹6,000 का प्रत्यक्ष आय समर्थन",
+      "राशि सीधे बैंक खातों में तीन किस्तों में स्थानांतरित की जाती है"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Land records",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "भूमि अभिलेख",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Apply through Common Service Centers (CSCs) or online at the PM-KISAN portal.",
+    "how_to_apply_hi": "कॉमन सर्विस सेंटर (सीएससी) के माध्यम से या पीएम-किसान पोर्टल पर ऑनलाइन आवेदन करें।",
+    "link": "https://pmkisan.gov.in/",
+    "category": "Agriculture",
+    "category_hi": "कृषि",
+    "implementing_agency": "Ministry of Agriculture & Farmers Welfare",
+    "implementing_agency_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Agricultural landholding families"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "ayushman",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)",
+    "name_hi": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना (एबी पीएम-जेएवाई)",
+    "description": "Health insurance scheme providing coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "description_hi": "स्वास्थ्य बीमा योजना जो माध्यमिक और तृतीयक देखभाल अस्पताल में भर्ती के लिए प्रति परिवार प्रति वर्ष ₹5 लाख तक का कवरेज प्रदान करती है।",
+    "eligibility": "Families identified based on deprivation criteria in the SECC database. Covers around 10.74 crore poor and vulnerable families.",
+    "eligibility_hi": "एसईसीसी डेटाबेस में वंचन मानदंडों के आधार पर पहचाने गए परिवार। लगभग 10.74 करोड़ गरीब और कमजोर परिवारों को कवर करता है।",
+    "benefits": [
+      "Health coverage up to ₹5 lakh per family per year",
+      "Cashless and paperless treatment at empaneled hospitals",
+      "No restriction on family size, age or gender"
+    ],
+    "benefits_hi": [
+      "प्रति परिवार प्रति वर्ष ₹5 लाख तक का स्वास्थ्य कवरेज",
+      "सूचीबद्ध अस्पतालों में कैशलेस और कागज रहित उपचार",
+      "परिवार के आकार, उम्र या लिंग पर कोई प्रतिबंध नहीं"
+    ],
+    "documents_required": [
+      "Any government-issued ID (Aadhaar preferred)"
+    ],
+    "documents_required_hi": [
+      "कोई भी सरकारी जारी आईडी (आधार वरीयता प्राप्त)"
+    ],
+    "how_to_apply": "Check eligibility on the official website or at Ayushman Bharat Kiosks at empaneled hospitals.",
+    "how_to_apply_hi": "आधिकारिक वेबसाइट पर या सूचीबद्ध अस्पतालों में आयुष्मान भारत कियोस्क पर पात्रता की जांच करें।",
+    "link": "https://pmjay.gov.in/",
+    "category": "Healthcare",
+    "category_hi": "स्वास्थ्य देखभाल",
+    "implementing_agency": "National Health Authority",
+    "implementing_agency_hi": "राष्ट्रीय स्वास्थ्य प्राधिकरण",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["Male", "Female", "Other"],
+      "income": ["Poor and vulnerable families"],
+      "location": ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh",
+                  "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jharkhand",
+                  "Karnataka", "Kerala", "Madhya Pradesh", "Maharashtra", "Manipur",
+                  "Meghalaya", "Mizoram", "Nagaland", "Punjab", "Rajasthan",
+                  "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh",
+                  "Uttarakhand", "Andaman and Nicobar Islands", "Chandigarh",
+                  "Dadra and Nagar Haveli and Daman and Diu", "Jammu and Kashmir",
+                  "Ladakh", "Lakshadweep", "Puducherry"]
+    }
+  },
+  {
+    "id": "sukanya",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "name_hi": "सुकन्या समृद्धि योजना (एसएसवाई)",
+    "description": "Small savings scheme for the girl child, providing financial security and ensuring funds for future education and marriage expenses.",
+    "description_hi": "बालिका के लिए छोटी बचत योजना, जो वित्तीय सुरक्षा प्रदान करती है और भविष्य की शिक्षा और विवाह खर्चों के लिए धन सुनिश्चित करती है।",
+    "eligibility": "Parents or legal guardians of girl children below 10 years of age. Maximum of two accounts for two different girl children.",
+    "eligibility_hi": "10 वर्ष से कम आयु की बालिकाओं के माता-पिता या कानूनी अभिभावक। दो अलग-अलग बालिकाओं के लिए अधिकतम दो खाते।",
+    "benefits": [
+      "High interest rate (current rate: 7.6% p.a., compounded annually)",
+      "Tax benefits under Section 80C of the Income Tax Act",
+      "Partial withdrawal allowed after girl child turns 18",
+      "Maturity after 21 years from the date of opening"
+    ],
+    "benefits_hi": [
+      "उच्च ब्याज दर (वर्तमान दर: 7.6% प्रति वर्ष, वार्षिक रूप से चक्रवृद्धि)",
+      "आयकर अधिनियम की धारा 80C के तहत कर लाभ",
+      "बालिका के 18 वर्ष की आयु पूरी करने के बाद आंशिक निकासी की अनुमति",
+      "खाता खोलने की तारीख से 21 वर्ष बाद परिपक्वता"
+    ],
+    "documents_required": [
+      "Birth certificate of the girl child",
+      "Identity and address proof of the guardian",
+      "Passport-sized photographs"
+    ],
+    "documents_required_hi": [
+      "बालिका का जन्म प्रमाण पत्र",
+      "अभिभावक का पहचान और पता प्रमाण",
+      "पासपोर्ट आकार के फोटोग्राफ"
+    ],
+    "how_to_apply": "Visit nearest post office or authorized banks with required documents.",
+    "how_to_apply_hi": "आवश्यक दस्तावेजों के साथ निकटतम डाकघर या अधिकृत बैंकों पर जाएं।",
+    "link": "https://financialservices.gov.in/financial-inclusion/Sukanya-Samriddhi-Account",
+    "category": "Savings",
+    "category_hi": "बचत",
+    "implementing_agency": "Department of Posts, Ministry of Finance",
+    "implementing_agency_hi": "डाक विभाग, वित्त मंत्रालय",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 10,
+      "gender": ["Female"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmmy",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "name_hi": "प्रधानमंत्री मुद्रा योजना (पीएमएमवाई)",
+    "description": "Scheme to provide loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises.",
+    "description_hi": "गैर-कॉर्पोरेट, गैर-कृषि छोटे/सूक्ष्म उद्यमों को ₹10 लाख तक के ऋण प्रदान करने की योजना।",
+    "eligibility": "Any Indian citizen with a viable business plan for non-farm income generating activities such as manufacturing, processing, trading or service sector.",
+    "eligibility_hi": "गैर-कृषि आय सृजन गतिविधियों जैसे विनिर्माण, प्रसंस्करण, व्यापार या सेवा क्षेत्र के लिए व्यवहार्य व्यावसायिक योजना वाला कोई भी भारतीय नागरिक।",
+    "benefits": [
+      "Shishu: Loans up to ₹50,000",
+      "Kishore: Loans above ₹50,000 and up to ₹5 lakh",
+      "Tarun: Loans above ₹5 lakh and up to ₹10 lakh",
+      "No collateral required"
+    ],
+    "benefits_hi": [
+      "शिशु: ₹50,000 तक के ऋण",
+      "किशोर: ₹50,000 से अधिक और ₹5 लाख तक के ऋण",
+      "तरुण: ₹5 लाख से अधिक और ₹10 लाख तक के ऋण",
+      "कोई संपार्श्विक आवश्यक नहीं"
+    ],
+    "documents_required": [
+      "Identity and address proof",
+      "Business plan/proposal",
+      "Proof of business existence (if applicable)"
+    ],
+    "documents_required_hi": [
+      "पहचान और पता प्रमाण",
+      "व्यावसायिक योजना/प्रस्ताव",
+      "व्यवसाय अस्तित्व का प्रमाण (यदि लागू हो)"
+    ],
+    "how_to_apply": "Apply through commercial banks, regional rural banks, small finance banks, NBFCs, and MFIs.",
+    "how_to_apply_hi": "वाणिज्यिक बैंकों, क्षेत्रीय ग्रामीण बैंकों, लघु वित्त बैंकों, एनबीएफसी और एमएफआई के माध्यम से आवेदन करें।",
+    "link": "https://www.mudra.org.in/",
+    "category": "Entrepreneurship",
+    "category_hi": "उद्यमिता",
+    "implementing_agency": "Micro Units Development & Refinance Agency Ltd.",
+    "implementing_agency_hi": "माइक्रो यूनिट्स डेवलपमेंट एंड रिफाइनेंस एजेंसी लिमिटेड",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Micro-entrepreneurs"],  
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "ujjwala",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "name_hi": "प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाई)",
+    "description": "Scheme to provide LPG connections to women from Below Poverty Line (BPL) households.",
+    "description_hi": "गरीबी रेखा से नीचे (बीपीएल) के परिवारों की महिलाओं को एलपीजी कनेक्शन प्रदान करने की योजना।",
+    "eligibility": "Women from BPL households who do not have LPG connection in their name.",
+    "eligibility_hi": "बीपीएल परिवारों की महिलाएं जिनके नाम पर एलपीजी कनेक्शन नहीं है।",
+    "benefits": [
+      "Free LPG connection with financial assistance of ₹1,600",
+      "First LPG cylinder and stove",
+      "Option for EMI facility for stove and first refill cost"
+    ],
+    "benefits_hi": [
+      "₹1,600 की वित्तीय सहायता के साथ मुफ्त एलपीजी कनेक्शन",
+      "पहला एलपीजी सिलेंडर और स्टोव",
+      "स्टोव और पहले रिफिल की लागत के लिए ईएमआई सुविधा का विकल्प"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "BPL ration card",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "बीपीएल राशन कार्ड",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Apply through nearest LPG distributor or online through the official website.",
+    "how_to_apply_hi": "निकटतम एलपीजी वितरक के माध्यम से या आधिकारिक वेबसाइट के माध्यम से ऑनलाइन आवेदन करें।",
+    "link": "https://pmuy.gov.in/",
+    "category": "Energy",
+    "category_hi": "ऊर्जा",
+    "implementing_agency": "Ministry of Petroleum and Natural Gas",
+    "implementing_agency_hi": "पेट्रोलियम और प्राकृतिक गैस मंत्रालय",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["Female"],
+      "income": ["Below poverty line"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "name_hi": "प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)",
+    "description": "Crop insurance scheme providing financial support to farmers in case of crop failure due to natural calamities, pests & diseases.",
+    "description_hi": "फसल बीमा योजना जो प्राकृतिक आपदाओं, कीटों और बीमारियों के कारण फसल विफलता की स्थिति में किसानों को वित्तीय सहायता प्रदान करती है।",
+    "eligibility": "All farmers growing notified crops in notified areas. Mandatory for farmers with KCC loans for notified crops, optional for others.",
+    "eligibility_hi": "अधिसूचित क्षेत्रों में अधिसूचित फसलें उगाने वाले सभी किसान। अधिसूचित फसलों के लिए केसीसी ऋण वाले किसानों के लिए अनिवार्य, अन्य के लिए वैकल्पिक।",
+    "benefits": [
+      "Comprehensive risk coverage from pre-sowing to post-harvest losses",
+      "Low premium rates: 2% for Kharif, 1.5% for Rabi, 5% for annual commercial/horticultural crops",
+      "Full insurance amount for crop losses"
+    ],
+    "benefits_hi": [
+      "पूर्व-बुवाई से लेकर कटाई के बाद के नुकसान तक व्यापक जोखिम कवरेज",
+      "कम प्रीमियम दरें: खरीफ के लिए 2%, रबी के लिए 1.5%, वार्षिक वाणिज्यिक/बागवानी फसलों के लिए 5%",
+      "फसल नुकसान के लिए पूरी बीमा राशि"
+    ],
+    "documents_required": [
+      "Land records",
+      "Bank account details",
+      "Sowing certificate",
+      "Identity proof"
+    ],
+    "documents_required_hi": [
+      "भूमि अभिलेख",
+      "बैंक खाता विवरण",
+      "बुवाई प्रमाणपत्र",
+      "पहचान प्रमाण"
+    ],
+    "how_to_apply": "Apply through nearest Common Service Centre, banks, or insurance companies.",
+    "how_to_apply_hi": "निकटतम कॉमन सर्विस सेंटर, बैंकों या बीमा कंपनियों के माध्यम से आवेदन करें।",
+    "link": "https://pmfby.gov.in/",
+    "category": "Agriculture",
+    "category_hi": "कृषि",
+    "implementing_agency": "Ministry of Agriculture & Farmers Welfare",
+    "implementing_agency_hi": "कृषि एवं किसान कल्याण मंत्रालय",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Farmers"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "name_hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी)",
+    "description": "Credit-linked subsidy program to generate employment opportunities through establishment of micro-enterprises in rural and urban areas.",
+    "description_hi": "ग्रामीण और शहरी क्षेत्रों में सूक्ष्म-उद्यमों की स्थापना के माध्यम से रोजगार के अवसर पैदा करने के लिए क्रेडिट-लिंक्ड सब्सिडी कार्यक्रम।",
+    "eligibility": "Any individual above 18 years of age with at least 8th grade education for projects above ₹10 lakh in manufacturing and above ₹5 lakh in service sector.",
+    "eligibility_hi": "विनिर्माण में ₹10 लाख से अधिक और सेवा क्षेत्र में ₹5 लाख से अधिक के प्रोजेक्ट के लिए कम से कम 8वीं कक्षा की शिक्षा के साथ 18 वर्ष से अधिक आयु का कोई भी व्यक्ति।",
+    "benefits": [
+      "Subsidy of 15-35% for urban areas and 25-35% for rural areas",
+      "Maximum project cost of ₹25 lakh for manufacturing sector and ₹10 lakh for service sector",
+      "Mandatory EDP training of 2-3 days after sanction of loan"
+    ],
+    "benefits_hi": [
+      "शहरी क्षेत्रों के लिए 15-35% और ग्रामीण क्षेत्रों के लिए 25-35% की सब्सिडी",
+      "विनिर्माण क्षेत्र के लिए ₹25 लाख और सेवा क्षेत्र के लिए ₹10 लाख की अधिकतम परियोजना लागत",
+      "ऋण की मंजूरी के बाद 2-3 दिनों का अनिवार्य ईडीपी प्रशिक्षण"
+    ],
+    "documents_required": [
+      "Identity and address proof",
+      "Educational qualification certificate",
+      "Project report",
+      "Quotation of machinery/components",
+      "Passport-sized photographs"
+    ],
+    "documents_required_hi": [
+      "पहचान और पता प्रमाण",
+      "शैक्षिक योग्यता प्रमाणपत्र",
+      "परियोजना रिपोर्ट",
+      "मशीनरी/घटकों का कोटेशन",
+      "पासपोर्ट आकार के फोटोग्राफ"
+    ],
+    "how_to_apply": "Apply online through the PMEGP e-portal or at nearest KVIC/KVIB/DIC office.",
+    "how_to_apply_hi": "पीएमईजीपी ई-पोर्टल के माध्यम से या निकटतम केवीआईसी/केवीआईबी/डीआईसी कार्यालय में ऑनलाइन आवेदन करें।",
+    "link": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "category": "Entrepreneurship",
+    "category_hi": "उद्यमिता",
+    "implementing_agency": "Khadi and Village Industries Commission",
+    "implementing_agency_hi": "खादी और ग्रामोद्योग आयोग",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmkvy",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "name_hi": "प्रधानमंत्री कौशल विकास योजना (पीएमकेवीवाई)",
+    "description": "Skill development initiative to enable youth to take up industry-relevant skill training for better livelihood opportunities.",
+    "description_hi": "युवाओं को बेहतर आजीविका के अवसरों के लिए उद्योग-प्रासंगिक कौशल प्रशिक्षण लेने में सक्षम बनाने के लिए कौशल विकास पहल।",
+    "eligibility": "Indian nationals who are school/college dropouts or unemployed.",
+    "eligibility_hi": "भारतीय नागरिक जो स्कूल/कॉलेज के ड्रॉपआउट या बेरोजगार हैं।",
+    "benefits": [
+      "Free skill training and certification",
+      "Monetary reward on successful completion of training",
+      "Recognition of Prior Learning (RPL) certification"
+    ],
+    "benefits_hi": [
+      "मुफ्त कौशल प्रशिक्षण और प्रमाणन",
+      "प्रशिक्षण के सफल समापन पर मौद्रिक पुरस्कार",
+      "पूर्व शिक्षा की मान्यता (आरपीएल) प्रमाणन"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Educational certificates",
+      "Bank account details",
+      "Passport-sized photographs"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "शैक्षिक प्रमाणपत्र",
+      "बैंक खाता विवरण",
+      "पासपोर्ट आकार के फोटोग्राफ"
+    ],
+    "how_to_apply": "Visit nearest PMKVY training center or apply online through the official website.",
+    "how_to_apply_hi": "निकटतम पीएमकेवीवाई प्रशिक्षण केंद्र पर जाएं या आधिकारिक वेबसाइट के माध्यम से ऑनलाइन आवेदन करें।",
+    "link": "https://www.pmkvyofficial.org/",
+    "category": "Education & Skill Development",
+    "category_hi": "शिक्षा और कौशल विकास",
+    "implementing_agency": "Ministry of Skill Development and Entrepreneurship",
+    "implementing_agency_hi": "कौशल विकास और उद्यमिता मंत्रालय",
+    "target_demographics": {
+      "min_age": 15,
+      "max_age": 45,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmsym",
+    "name": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+    "name_hi": "प्रधानमंत्री श्रम योगी मान-धन (पीएम-एसवाईएम)",
+    "description": "Voluntary and contributory pension scheme for unorganized sector workers.",
+    "description_hi": "असंगठित क्षेत्र के श्रमिकों के लिए स्वैच्छिक और अंशदायी पेंशन योजना।",
+    "eligibility": "Unorganized sector workers with monthly income up to ₹15,000 and age between 18-40 years.",
+    "eligibility_hi": "असंगठित क्षेत्र के कार्यकर्ता जिनकी मासिक आय ₹15,000 तक है और आयु 18-40 वर्ष के बीच है।",
+    "benefits": [
+      "Assured pension of ₹3,000 per month after age 60",
+      "Matching contribution by the government",
+      "Family pension in case of death of the beneficiary"
+    ],
+    "benefits_hi": [
+      "60 वर्ष की आयु के बाद ₹3,000 प्रति माह की सुनिश्चित पेंशन",
+      "सरकार द्वारा समान योगदान",
+      "लाभार्थी की मृत्यु के मामले में पारिवारिक पेंशन"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Savings bank account",
+      "Mobile number"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "बचत बैंक खाता",
+      "मोबाइल नंबर"
+    ],
+    "how_to_apply": "Apply through nearest Common Service Centres (CSCs).",
+    "how_to_apply_hi": "निकटतम कॉमन सर्विस सेंटर (सीएससी) के माध्यम से आवेदन करें।",
+    "link": "https://maandhan.in/",
+    "category": "Pension",
+    "category_hi": "पेंशन",
+    "implementing_agency": "Ministry of Labour and Employment",
+    "implementing_agency_hi": "श्रम और रोजगार मंत्रालय",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": ["All"],
+      "income": ["Monthly income up to ₹15,000"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "standup",
+    "name": "Stand-Up India Scheme",
+    "name_hi": "स्टैंड-अप इंडिया योजना",
+    "description": "Scheme to facilitate bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and one woman borrower per bank branch for setting up a greenfield enterprise.",
+    "description_hi": "प्रति बैंक शाखा से कम से कम एक अनुसूचित जाति/अनुसूचित जनजाति उधारकर्ता और एक महिला उधारकर्ता को ग्रीनफील्ड उद्यम स्थापित करने के लिए ₹10 लाख और ₹1 करोड़ के बीच बैंक ऋण की सुविधा प्रदान करने वाली योजना।",
+    "eligibility": "SC/ST and women entrepreneurs above 18 years of age.",
+    "eligibility_hi": "18 वर्ष से अधिक आयु के अनुसूचित जाति/अनुसूचित जनजाति और महिला उद्यमी।",
+    "benefits": [
+      "Loans between ₹10 lakh and ₹1 crore",
+      "Composite loan (term loan + working capital)",
+      "Margin money requirement reduced to 15-25%",
+      "Refinance window through SIDBI"
+    ],
+    "benefits_hi": [
+      "₹10 लाख और ₹1 करोड़ के बीच ऋण",
+      "संयुक्त ऋण (सावधि ऋण + कार्यशील पूंजी)",
+      "मार्जिन मनी आवश्यकता को 15-25% तक कम किया गया",
+      "सिडबी के माध्यम से पुनर्वित्त विंडो"
+    ],
+    "documents_required": [
+      "Identity and address proof",
+      "Project report",
+      "Quotations of machinery",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "पहचान और पता प्रमाण",
+      "परियोजना रिपोर्ट",
+      "मशीनरी के कोटेशन",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Apply online through the Stand-Up India portal or visit any bank branch.",
+    "how_to_apply_hi": "स्टैंड-अप इंडिया पोर्टल के माध्यम से ऑनलाइन आवेदन करें या किसी भी बैंक शाखा पर जाएं।",
+    "link": "https://www.standupmitra.in/",
+    "category": "Entrepreneurship",
+    "category_hi": "उद्यमिता",
+    "implementing_agency": "Department of Financial Services",
+    "implementing_agency_hi": "वित्तीय सेवा विभाग",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmuy",
+    "name": "Pradhan Mantri Ujala Yojana (PMUY)",
+    "name_hi": "प्रधानमंत्री उजाला योजना (पीएमयूवाई)",
+    "description": "Scheme to distribute LED bulbs to reduce electricity consumption and promote energy efficiency.",
+    "description_hi": "बिजली की खपत को कम करने और ऊर्जा दक्षता को बढ़ावा देने के लिए एलईडी बल्ब वितरित करने की योजना।",
+    "eligibility": "All domestic consumers with a metered connection from their respective Electricity Distribution Company.",
+    "eligibility_hi": "सभी घरेलू उपभोक्ता जिनके पास अपनी संबंधित बिजली वितरण कंपनी से मीटर्ड कनेक्शन है।",
+    "benefits": [
+      "LED bulbs at subsidized rates",
+      "Reduction in electricity bills",
+      "Environmental benefits through energy conservation"
+    ],
+    "benefits_hi": [
+      "सब्सिडी वाली दरों पर एलईडी बल्ब",
+      "बिजली बिलों में कमी",
+      "ऊर्जा संरक्षण के माध्यम से पर्यावरणीय लाभ"
+    ],
+    "documents_required": [
+      "Latest electricity bill",
+      "Identity proof"
+    ],
+    "documents_required_hi": [
+      "नवीनतम बिजली बिल",
+      "पहचान प्रमाण"
+    ],
+    "how_to_apply": "Purchase LED bulbs from designated UJALA distribution kiosks by presenting the required documents.",
+    "how_to_apply_hi": "आवश्यक दस्तावेज प्रस्तुत करके निर्दिष्ट उजाला वितरण किओस्क से एलईडी बल्ब खरीदें।",
+    "link": "https://www.ujala.gov.in/",
+    "category": "Energy",
+    "category_hi": "ऊर्जा",
+    "implementing_agency": "Ministry of Power",
+    "implementing_agency_hi": "विद्युत मंत्रालय",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmjay",
+    "name": "Pradhan Mantri Jan Aushadi Yojana (PMJAY)",
+    "name_hi": "प्रधानमंत्री जन औषधि योजना (पीएमजेएवाई)",
+    "description": "Scheme to provide quality medicines at affordable prices through dedicated outlets called Pradhan Mantri Bhartiya Janaushadhi Kendras.",
+    "description_hi": "प्रधानमंत्री भारतीय जनऔषधि केंद्र नामक समर्पित आउटलेट के माध्यम से किफायती दामों पर गुणवत्तापूर्ण दवाएं उपलब्ध कराने की योजना।",
+    "eligibility": "All citizens can purchase medicines from Jan Aushadhi Kendras.",
+    "eligibility_hi": "सभी नागरिक जन औषधि केंद्रों से दवाएं खरीद सकते हैं।",
+    "benefits": [
+      "Generic medicines at 50-90% less prices compared to branded drugs",
+      "Quality assurance through NABL accredited laboratories"
+    ],
+    "benefits_hi": [
+      "ब्रांडेड दवाओं की तुलना में 50-90% कम कीमतों पर जेनेरिक दवाएं",
+      "एनएबीएल मान्यता प्राप्त प्रयोगशालाओं के माध्यम से गुणवत्ता आश्वासन"
+    ],
+    "documents_required": [
+      "Doctor's prescription for purchasing medicines"
+    ],
+    "documents_required_hi": [
+      "दवाएं खरीदने के लिए डॉक्टर का नुस्खा"
+    ],
+    "how_to_apply": "Visit nearest Jan Aushadhi Kendra to purchase medicines.",
+    "how_to_apply_hi": "दवाएं खरीदने के लिए निकटतम जन औषधि केंद्र पर जाएं।",
+    "link": "https://janaushadhi.gov.in/",
+    "category": "Healthcare",
+    "category_hi": "स्वास्थ्य देखभाल",
+    "implementing_agency": "Ministry of Chemicals and Fertilizers",
+    "implementing_agency_hi": "रसायन और उर्वरक मंत्रालय",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "mgnarega",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "name_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (मनरेगा)",
+    "description": "Employment scheme that provides at least 100 days of guaranteed wage employment in a financial year to rural households.",
+    "description_hi": "रोजगार योजना जो ग्रामीण परिवारों को एक वित्तीय वर्ष में कम से कम 100 दिनों का गारंटीकृत मजदूरी रोजगार प्रदान करती है।",
+    "eligibility": "Adult members of rural households willing to do unskilled manual work.",
+    "eligibility_hi": "ग्रामीण परिवारों के वयस्क सदस्य जो अकुशल शारीरिक श्रम करने के इच्छुक हों।",
+    "benefits": [
+      "Legal guarantee of 100 days of employment per household per year",
+      "Equal wages for men and women",
+      "Unemployment allowance if work not provided within 15 days of application"
+    ],
+    "benefits_hi": [
+      "प्रति परिवार प्रति वर्ष 100 दिनों के रोजगार की कानूनी गारंटी",
+      "पुरुषों और महिलाओं के लिए समान मजदूरी",
+      "आवेदन के 15 दिनों के भीतर काम न मिलने पर बेरोजगारी भत्ता"
+    ],
+    "documents_required": [
+      "Job card issued by Gram Panchayat",
+      "Bank/Post Office account",
+      "Aadhaar card (optional)"
+    ],
+    "documents_required_hi": [
+      "ग्राम पंचायत द्वारा जारी जॉब कार्ड",
+      "बैंक/डाकघर खाता",
+      "आधार कार्ड (वैकल्पिक)"
+    ],
+    "how_to_apply": "Register with the Gram Panchayat to get a job card.",
+    "how_to_apply_hi": "जॉब कार्ड प्राप्त करने के लिए ग्राम पंचायत के साथ पंजीकरण करें।",
+    "link": "https://nrega.nic.in/",
+    "category": "Employment",
+    "category_hi": "रोजगार",
+    "implementing_agency": "Ministry of Rural Development",
+    "implementing_agency_hi": "ग्रामीण विकास मंत्रालय",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["Male", "Female", "Other"],
+      "income": ["Rural households"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "ddugky",
+    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "name_hi": "दीन दयाल उपाध्याय ग्रामीण कौशल्य योजना (डीडीयू-जीकेवाई)",
+    "description": "Placement-linked skill development program for rural youth.",
+    "description_hi": "ग्रामीण युवाओं के लिए प्लेसमेंट से जुड़ा कौशल विकास कार्यक्रम।",
+    "eligibility": "Rural youth from poor families in the age group of 15-35 years.",
+    "eligibility_hi": "15-35 वर्ष की आयु वर्ग के गरीब परिवारों के ग्रामीण युवा।",
+    "benefits": [
+      "Free training with certification",
+      "Placement assistance",
+      "Post-placement support",
+      "Migration support"
+    ],
+    "benefits_hi": [
+      "प्रमाणन के साथ नि:शुल्क प्रशिक्षण",
+      "प्लेसमेंट सहायता",
+      "प्लेसमेंट के बाद समर्थन",
+      "प्रवासन समर्थन"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "BPL card or income certificate",
+      "Educational certificates",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "आधार कार्ड",
+      "बीपीएल कार्ड या आय प्रमाणपत्र",
+      "शैक्षिक प्रमाणपत्र",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Apply through DDU-GKY Project Implementing Agencies or visit nearest skill development center.",
+    "how_to_apply_hi": "डीडीयू-जीकेवाई परियोजना कार्यान्वयन एजेंसियों के माध्यम से आवेदन करें या निकटतम कौशल विकास केंद्र पर जाएं।",
+    "link": "https://ddugky.gov.in/",
+    "category": "Education & Skill Development",
+    "category_hi": "शिक्षा और कौशल विकास",
+    "implementing_agency": "Ministry of Rural Development",
+    "implementing_agency_hi": "ग्रामीण विकास मंत्रालय",
+    "target_demographics": {
+      "min_age": 15,
+      "max_age": 35,
+      "gender": ["All"],
+      "income": ["Below poverty line families"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "vidyalakshmi",
+    "name": "Vidya Lakshmi Portal",
+    "name_hi": "विद्या लक्ष्मी पोर्टल",
+    "description": "A first-of-its-kind portal for students seeking education loans and government scholarships.",
+    "description_hi": "छात्रों के लिए शिक्षा ऋण और सरकारी छात्रवृत्ति की तलाश के लिए अपनी तरह का पहला पोर्टल।",
+    "eligibility": "Students seeking higher education in India or abroad.",
+    "eligibility_hi": "भारत या विदेश में उच्च शिक्षा प्राप्त करने वाले छात्र।",
+    "benefits": [
+      "Single window electronic platform for education loans",
+      "Access to multiple bank loan schemes",
+      "Information about government scholarships",
+      "Loan tracking system"
+    ],
+    "benefits_hi": [
+      "शिक्षा ऋण के लिए एकल खिड़की इलेक्ट्रॉनिक प्लेटफॉर्म",
+      "कई बैंक ऋण योजनाओं तक पहुंच",
+      "सरकारी छात्रवृत्ति के बारे में जानकारी",
+      "ऋण ट्रैकिंग प्रणाली"
+    ],
+    "documents_required": [
+      "Identity proof",
+      "Address proof",
+      "Income proof of parents",
+      "Academic records",
+      "Admission letter"
+    ],
+    "documents_required_hi": [
+      "पहचान प्रमाण",
+      "पता प्रमाण",
+      "माता-पिता का आय प्रमाण",
+      "शैक्षिक रिकॉर्ड",
+      "प्रवेश पत्र"
+    ],
+    "how_to_apply": "Register on the Vidya Lakshmi Portal and apply for loans/scholarships online.",
+    "how_to_apply_hi": "विद्या लक्ष्मी पोर्टल पर पंजीकरण करें और ऑनलाइन ऋण/छात्रवृत्ति के लिए आवेदन करें।",
+    "link": "https://www.vidyalakshmi.co.in/",
+    "category": "Education & Skill Development",
+    "category_hi": "शिक्षा और कौशल विकास",
+    "implementing_agency": "Department of Financial Services & NSDL",
+    "implementing_agency_hi": "वित्तीय सेवा विभाग और एनएसडीएल",
+    "target_demographics": {
+      "min_age": 16,
+      "max_age": 35,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "nrlm",
+    "name": "National Rural Livelihood Mission (NRLM)",
+    "name_hi": "राष्ट्रीय ग्रामीण आजीविका मिशन (एनआरएलएम)",
+    "description": "Poverty alleviation program focused on promoting self-employment and organization of rural poor.",
+    "description_hi": "गरीबी उन्मूलन कार्यक्रम जो ग्रामीण गरीबों के स्वरोजगार और संगठन को बढ़ावा देने पर केंद्रित है।",
+    "eligibility": "Rural poor, especially women.",
+    "eligibility_hi": "ग्रामीण गरीब, विशेष रूप से महिलाएं।",
+    "benefits": [
+      "Formation and strengthening of Self Help Groups (SHGs)",
+      "Interest subvention on bank loans",
+      "Skill development and livelihood promotion",
+      "Financial inclusion"
+    ],
+    "benefits_hi": [
+      "स्वयं सहायता समूहों (एसएचजी) का गठन और सुदृढ़ीकरण",
+      "बैंक ऋणों पर ब्याज सबवेंशन",
+      "कौशल विकास और आजीविका संवर्धन",
+      "वित्तीय समावेशन"
+    ],
+    "documents_required": [
+      "Identity proof",
+      "BPL card or income certificate",
+      "Bank account details"
+    ],
+    "documents_required_hi": [
+      "पहचान प्रमाण",
+      "बीपीएल कार्ड या आय प्रमाणपत्र",
+      "बैंक खाता विवरण"
+    ],
+    "how_to_apply": "Join/form a Self Help Group in your village under NRLM.",
+    "how_to_apply_hi": "एनआरएलएम के तहत अपने गांव में स्वयं सहायता समूह में शामिल हों/बनाएं।",
+    "link": "https://aajeevika.gov.in/",
+    "category": "Livelihood",
+    "category_hi": "आजीविका",
+    "implementing_agency": "Ministry of Rural Development",
+    "implementing_agency_hi": "ग्रामीण विकास मंत्रालय",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Below poverty line"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "mmsy",
+    "name": "Mahila Shakti Kendra Scheme",
+    "name_hi": "महिला शक्ति केंद्र योजना",
+    "description": "Scheme to empower rural women through community participation.",
+    "description_hi": "सामुदायिक भागीदारी के माध्यम से ग्रामीण महिलाओं को सशक्त बनाने की योजना।",
+    "eligibility": "Rural women.",
+    "eligibility_hi": "ग्रामीण महिलाएं।",
+    "benefits": [
+      "Awareness generation regarding various government programs",
+      "Capacity building and training",
+      "Employment opportunities through skill development"
+    ],
+    "benefits_hi": [
+      "विभिन्न सरकारी कार्यक्रमों के बारे में जागरूकता पैदा करना",
+      "क्षमता निर्माण और प्रशिक्षण",
+      "कौशल विकास के माध्यम से रोजगार के अवसर"
+    ],
+    "documents_required": [
+      "Identity proof",
+      "Address proof"
+    ],
+    "documents_required_hi": [
+      "पहचान प्रमाण",
+      "पता प्रमाण"
+    ],
+    "how_to_apply": "Visit nearest Mahila Shakti Kendra.",
+    "how_to_apply_hi": "निकटतम महिला शक्ति केंद्र पर जाएं।",
+    "link": "https://wcd.nic.in/schemes/mahila-shakti-kendras-msk",
+    "category": "Women Empowerment",
+    "category_hi": "महिला सशक्तिकरण",
+    "implementing_agency": "Ministry of Women and Child Development",
+    "implementing_agency_hi": "महिला एवं बाल विकास मंत्रालय",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["Female"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  }
+] 

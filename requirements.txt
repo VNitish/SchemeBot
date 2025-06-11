@@ -1,0 +1,8 @@
+streamlit==1.27.0
+openai==0.28.0
+python-dotenv==1.0.0
+numpy>=1.26.0
+sounddevice==0.4.6
+soundfile==0.12.1
+openai-whisper==20231117
+torch>=2.2.0 

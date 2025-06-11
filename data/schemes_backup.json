@@ -1,0 +1,604 @@
+[
+  {
+    "id": "pmjdy",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "description": "Financial inclusion program that aims to expand and make affordable access to financial services such as bank accounts, remittances, credit, insurance and pensions.",
+    "eligibility": "Indian citizens above 10 years of age. One account per household.",
+    "benefits": [
+      "Zero balance savings account",
+      "RuPay debit card with ₹1 lakh accident insurance cover",
+      "Overdraft facility up to ₹10,000",
+      "Direct Benefit Transfer for various government schemes"
+    ],
+    "documents_required": [
+      "Identity proof (Aadhaar, PAN, Voter ID, etc.)",
+      "Address proof"
+    ],
+    "how_to_apply": "Visit nearest bank branch or post office with required documents to open a PMJDY account.",
+    "link": "https://www.pmjdy.gov.in/",
+    "category": "Financial Inclusion",
+    "implementing_agency": "Department of Financial Services",
+    "target_demographics": {
+      "min_age": 10,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmjjby",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "description": "Life insurance scheme offering coverage for death due to any reason.",
+    "eligibility": "Any Indian citizen between 18-50 years of age with a bank account.",
+    "benefits": [
+      "Life insurance cover of ₹2 lakh in case of death",
+      "Annual premium of only ₹330"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "how_to_apply": "Visit your bank branch or apply online through net banking.",
+    "link": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Jeevan-Jyoti-Bima-Yojana(PMJJBY)",
+    "category": "Insurance",
+    "implementing_agency": "Department of Financial Services",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 50,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmsby",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "description": "Accident insurance scheme offering coverage for accidental death and disability.",
+    "eligibility": "Any Indian citizen between 18-70 years of age with a bank account.",
+    "benefits": [
+      "Accidental death coverage of ₹2 lakh",
+      "Permanent total disability coverage of ₹2 lakh",
+      "Permanent partial disability coverage of ₹1 lakh",
+      "Annual premium of only ₹12"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "how_to_apply": "Visit your bank branch or apply online through net banking.",
+    "link": "https://financialservices.gov.in/insurance-divisions/Government-Sponsored-Socially-Oriented-Insurance-Schemes/Pradhan-Mantri-Suraksha-Bima-Yojana(PMSBY)",
+    "category": "Insurance",
+    "implementing_agency": "Department of Financial Services",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 70,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "apy",
+    "name": "Atal Pension Yojana (APY)",
+    "description": "Pension scheme focused on workers in the unorganized sector, guaranteeing a minimum pension after 60 years of age.",
+    "eligibility": "Indian citizens between 18-40 years. Must have a savings bank account.",
+    "benefits": [
+      "Fixed pension of ₹1,000 to ₹5,000 per month after age 60",
+      "Government contribution of 50% of the subscriber's contribution or ₹1,000 per annum, whichever is lower (for those not income tax payers)"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Bank account details"
+    ],
+    "how_to_apply": "Visit nearest bank branch or apply online through net banking.",
+    "link": "https://www.npscra.nsdl.co.in/scheme-details.php",
+    "category": "Pension",
+    "implementing_agency": "Pension Fund Regulatory and Development Authority",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": ["All"],
+      "income": ["Unorganized sector workers"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmay",
+    "name": "Pradhan Mantri Awas Yojana (PMAY)",
+    "description": "Housing scheme that aims to provide affordable housing to the urban and rural poor.",
+    "eligibility": "Urban: Economically Weaker Section (EWS) with annual income up to ₹3 lakh and Lower Income Group (LIG) with annual income between ₹3-6 lakh. Rural: Households without a pucca house.",
+    "benefits": [
+      "Urban: Credit-linked subsidy of up to ₹2.67 lakh on home loans",
+      "Rural: Financial assistance of ₹1.2 lakh to ₹1.3 lakh for constructing houses"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Income certificate",
+      "Land documents (for rural component)"
+    ],
+    "how_to_apply": "Urban: Apply through banks/housing finance companies. Rural: Apply through Gram Panchayat.",
+    "link": "https://pmaymis.gov.in/",
+    "category": "Housing",
+    "implementing_agency": "Ministry of Housing and Urban Affairs (Urban) / Ministry of Rural Development (Rural)",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Low income households"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmkisan",
+    "name": "PM Kisan Samman Nidhi (PM-KISAN)",
+    "description": "Income support scheme for farmers providing up to ₹6,000 per year in three equal installments.",
+    "eligibility": "All landholding farmer families with cultivable land, subject to certain exclusions.",
+    "benefits": [
+      "Direct income support of ₹6,000 per year",
+      "Amount transferred directly to bank accounts in three installments"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Land records",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply through Common Service Centers (CSCs) or online at the PM-KISAN portal.",
+    "link": "https://pmkisan.gov.in/",
+    "category": "Agriculture",
+    "implementing_agency": "Ministry of Agriculture & Farmers Welfare",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Agricultural landholding families"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "ayushman",
+    "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)",
+    "description": "Health insurance scheme providing coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "eligibility": "Families identified based on deprivation criteria in the SECC database. Covers around 10.74 crore poor and vulnerable families.",
+    "benefits": [
+      "Health coverage up to ₹5 lakh per family per year",
+      "Cashless and paperless treatment at empaneled hospitals",
+      "No restriction on family size, age or gender"
+    ],
+    "documents_required": [
+      "Any government-issued ID (Aadhaar preferred)"
+    ],
+    "how_to_apply": "Check eligibility on the official website or at Ayushman Bharat Kiosks at empaneled hospitals.",
+    "link": "https://pmjay.gov.in/",
+    "category": "Healthcare",
+    "implementing_agency": "National Health Authority",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["Male", "Female", "Other"],
+      "income": ["Poor and vulnerable families"],
+      "location": ["Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar", "Chhattisgarh",
+                  "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jharkhand",
+                  "Karnataka", "Kerala", "Madhya Pradesh", "Maharashtra", "Manipur",
+                  "Meghalaya", "Mizoram", "Nagaland", "Punjab", "Rajasthan",
+                  "Sikkim", "Tamil Nadu", "Telangana", "Tripura", "Uttar Pradesh",
+                  "Uttarakhand", "Andaman and Nicobar Islands", "Chandigarh",
+                  "Dadra and Nagar Haveli and Daman and Diu", "Jammu and Kashmir",
+                  "Ladakh", "Lakshadweep", "Puducherry"]
+    }
+  },
+  {
+    "id": "sukanya",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "description": "Small savings scheme for the girl child, providing financial security and ensuring funds for future education and marriage expenses.",
+    "eligibility": "Parents or legal guardians of girl children below 10 years of age. Maximum of two accounts for two different girl children.",
+    "benefits": [
+      "High interest rate (current rate: 7.6% p.a., compounded annually)",
+      "Tax benefits under Section 80C of the Income Tax Act",
+      "Partial withdrawal allowed after girl child turns 18",
+      "Maturity after 21 years from the date of opening"
+    ],
+    "documents_required": [
+      "Birth certificate of the girl child",
+      "Identity and address proof of the guardian",
+      "Passport-sized photographs"
+    ],
+    "how_to_apply": "Visit nearest post office or authorized banks with required documents.",
+    "link": "https://financialservices.gov.in/financial-inclusion/Sukanya-Samriddhi-Account",
+    "category": "Savings",
+    "implementing_agency": "Department of Posts, Ministry of Finance",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 10,
+      "gender": ["Female"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmmy",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Scheme to provide loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises.",
+    "eligibility": "Any Indian citizen with a viable business plan for non-farm income generating activities such as manufacturing, processing, trading or service sector.",
+    "benefits": [
+      "Shishu: Loans up to ₹50,000",
+      "Kishore: Loans above ₹50,000 and up to ₹5 lakh",
+      "Tarun: Loans above ₹5 lakh and up to ₹10 lakh",
+      "No collateral required"
+    ],
+    "documents_required": [
+      "Identity and address proof",
+      "Business plan/proposal",
+      "Proof of business existence (if applicable)"
+    ],
+    "how_to_apply": "Apply through commercial banks, regional rural banks, small finance banks, NBFCs, and MFIs.",
+    "link": "https://www.mudra.org.in/",
+    "category": "Entrepreneurship",
+    "implementing_agency": "Micro Units Development & Refinance Agency Ltd.",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Micro-entrepreneurs"],  
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "ujjwala",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Scheme to provide LPG connections to women from Below Poverty Line (BPL) households.",
+    "eligibility": "Women from BPL households who do not have LPG connection in their name.",
+    "benefits": [
+      "Free LPG connection with financial assistance of ₹1,600",
+      "First LPG cylinder and stove",
+      "Option for EMI facility for stove and first refill cost"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "BPL ration card",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply through nearest LPG distributor or online through the official website.",
+    "link": "https://pmuy.gov.in/",
+    "category": "Energy",
+    "implementing_agency": "Ministry of Petroleum and Natural Gas",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["Female"],
+      "income": ["Below poverty line"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Crop insurance scheme providing financial support to farmers in case of crop failure due to natural calamities, pests & diseases.",
+    "eligibility": "All farmers growing notified crops in notified areas. Mandatory for farmers with KCC loans for notified crops, optional for others.",
+    "benefits": [
+      "Comprehensive risk coverage from pre-sowing to post-harvest losses",
+      "Low premium rates: 2% for Kharif, 1.5% for Rabi, 5% for annual commercial/horticultural crops",
+      "Full insurance amount for crop losses"
+    ],
+    "documents_required": [
+      "Land records",
+      "Bank account details",
+      "Sowing certificate",
+      "Identity proof"
+    ],
+    "how_to_apply": "Apply through nearest Common Service Centre, banks, or insurance companies.",
+    "link": "https://pmfby.gov.in/",
+    "category": "Agriculture",
+    "implementing_agency": "Ministry of Agriculture & Farmers Welfare",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Farmers"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "description": "Credit-linked subsidy program to generate employment opportunities through establishment of micro-enterprises in rural and urban areas.",
+    "eligibility": "Any individual above 18 years of age with at least 8th grade education for projects above ₹10 lakh in manufacturing and above ₹5 lakh in service sector.",
+    "benefits": [
+      "Subsidy of 15-35% for urban areas and 25-35% for rural areas",
+      "Maximum project cost of ₹25 lakh for manufacturing sector and ₹10 lakh for service sector",
+      "Mandatory EDP training of 2-3 days after sanction of loan"
+    ],
+    "documents_required": [
+      "Identity and address proof",
+      "Educational qualification certificate",
+      "Project report",
+      "Quotation of machinery/components",
+      "Passport-sized photographs"
+    ],
+    "how_to_apply": "Apply online through the PMEGP e-portal or at nearest KVIC/KVIB/DIC office.",
+    "link": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "category": "Entrepreneurship",
+    "implementing_agency": "Khadi and Village Industries Commission",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmkvy",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "description": "Skill development initiative to enable youth to take up industry-relevant skill training for better livelihood opportunities.",
+    "eligibility": "Indian nationals who are school/college dropouts or unemployed.",
+    "benefits": [
+      "Free skill training and certification",
+      "Monetary reward on successful completion of training",
+      "Recognition of Prior Learning (RPL) certification"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Educational certificates",
+      "Bank account details",
+      "Passport-sized photographs"
+    ],
+    "how_to_apply": "Visit nearest PMKVY training center or apply online through the official website.",
+    "link": "https://www.pmkvyofficial.org/",
+    "category": "Education & Skill Development",
+    "implementing_agency": "Ministry of Skill Development and Entrepreneurship",
+    "target_demographics": {
+      "min_age": 15,
+      "max_age": 45,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmsym",
+    "name": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+    "description": "Voluntary and contributory pension scheme for unorganized sector workers.",
+    "eligibility": "Unorganized sector workers with monthly income up to ₹15,000 and age between 18-40 years.",
+    "benefits": [
+      "Assured pension of ₹3,000 per month after age 60",
+      "Matching contribution by the government",
+      "Family pension in case of death of the beneficiary"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "Savings bank account",
+      "Mobile number"
+    ],
+    "how_to_apply": "Apply through nearest Common Service Centres (CSCs).",
+    "link": "https://maandhan.in/",
+    "category": "Pension",
+    "implementing_agency": "Ministry of Labour and Employment",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 40,
+      "gender": ["All"],
+      "income": ["Monthly income up to ₹15,000"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "standup",
+    "name": "Stand-Up India Scheme",
+    "description": "Scheme to facilitate bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and one woman borrower per bank branch for setting up a greenfield enterprise.",
+    "eligibility": "SC/ST and women entrepreneurs above 18 years of age.",
+    "benefits": [
+      "Loans between ₹10 lakh and ₹1 crore",
+      "Composite loan (term loan + working capital)",
+      "Margin money requirement reduced to 15-25%",
+      "Refinance window through SIDBI"
+    ],
+    "documents_required": [
+      "Identity and address proof",
+      "Project report",
+      "Quotations of machinery",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply online through the Stand-Up India portal or visit any bank branch.",
+    "link": "https://www.standupmitra.in/",
+    "category": "Entrepreneurship",
+    "implementing_agency": "Department of Financial Services",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmuy",
+    "name": "Pradhan Mantri Ujala Yojana (PMUY)",
+    "description": "Scheme to distribute LED bulbs to reduce electricity consumption and promote energy efficiency.",
+    "eligibility": "All domestic consumers with a metered connection from their respective Electricity Distribution Company.",
+    "benefits": [
+      "LED bulbs at subsidized rates",
+      "Reduction in electricity bills",
+      "Environmental benefits through energy conservation"
+    ],
+    "documents_required": [
+      "Latest electricity bill",
+      "Identity proof"
+    ],
+    "how_to_apply": "Purchase LED bulbs from designated UJALA distribution kiosks by presenting the required documents.",
+    "link": "https://www.ujala.gov.in/",
+    "category": "Energy",
+    "implementing_agency": "Ministry of Power",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "pmjay",
+    "name": "Pradhan Mantri Jan Aushadi Yojana (PMJAY)",
+    "description": "Scheme to provide quality medicines at affordable prices through dedicated outlets called Pradhan Mantri Bhartiya Janaushadhi Kendras.",
+    "eligibility": "All citizens can purchase medicines from Jan Aushadhi Kendras.",
+    "benefits": [
+      "Generic medicines at 50-90% less prices compared to branded drugs",
+      "Quality assurance through NABL accredited laboratories"
+    ],
+    "documents_required": [
+      "Doctor's prescription for purchasing medicines"
+    ],
+    "how_to_apply": "Visit nearest Jan Aushadhi Kendra to purchase medicines.",
+    "link": "https://janaushadhi.gov.in/",
+    "category": "Healthcare",
+    "implementing_agency": "Ministry of Chemicals and Fertilizers",
+    "target_demographics": {
+      "min_age": 0,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "mgnarega",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "description": "Employment scheme that provides at least 100 days of guaranteed wage employment in a financial year to rural households.",
+    "eligibility": "Adult members of rural households willing to do unskilled manual work.",
+    "benefits": [
+      "Legal guarantee of 100 days of employment per household per year",
+      "Equal wages for men and women",
+      "Unemployment allowance if work not provided within 15 days of application"
+    ],
+    "documents_required": [
+      "Job card issued by Gram Panchayat",
+      "Bank/Post Office account",
+      "Aadhaar card (optional)"
+    ],
+    "how_to_apply": "Register with the Gram Panchayat to get a job card.",
+    "link": "https://nrega.nic.in/",
+    "category": "Employment",
+    "implementing_agency": "Ministry of Rural Development",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["Male", "Female", "Other"],
+      "income": ["Rural households"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "ddugky",
+    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)",
+    "description": "Placement-linked skill development program for rural youth.",
+    "eligibility": "Rural youth from poor families in the age group of 15-35 years.",
+    "benefits": [
+      "Free training with certification",
+      "Placement assistance",
+      "Post-placement support",
+      "Migration support"
+    ],
+    "documents_required": [
+      "Aadhaar card",
+      "BPL card or income certificate",
+      "Educational certificates",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply through DDU-GKY Project Implementing Agencies or visit nearest skill development center.",
+    "link": "https://ddugky.gov.in/",
+    "category": "Education & Skill Development",
+    "implementing_agency": "Ministry of Rural Development",
+    "target_demographics": {
+      "min_age": 15,
+      "max_age": 35,
+      "gender": ["All"],
+      "income": ["Below poverty line families"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "vidyalakshmi",
+    "name": "Vidya Lakshmi Portal",
+    "description": "A first-of-its-kind portal for students seeking education loans and government scholarships.",
+    "eligibility": "Students seeking higher education in India or abroad.",
+    "benefits": [
+      "Single window electronic platform for education loans",
+      "Access to multiple bank loan schemes",
+      "Information about government scholarships",
+      "Loan tracking system"
+    ],
+    "documents_required": [
+      "Identity proof",
+      "Address proof",
+      "Income proof of parents",
+      "Academic records",
+      "Admission letter"
+    ],
+    "how_to_apply": "Register on the Vidya Lakshmi Portal and apply for loans/scholarships online.",
+    "link": "https://www.vidyalakshmi.co.in/",
+    "category": "Education & Skill Development",
+    "implementing_agency": "Department of Financial Services & NSDL",
+    "target_demographics": {
+      "min_age": 16,
+      "max_age": 35,
+      "gender": ["All"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "nrlm",
+    "name": "National Rural Livelihood Mission (NRLM)",
+    "description": "Poverty alleviation program focused on promoting self-employment and organization of rural poor.",
+    "eligibility": "Rural poor, especially women.",
+    "benefits": [
+      "Formation and strengthening of Self Help Groups (SHGs)",
+      "Interest subvention on bank loans",
+      "Skill development and livelihood promotion",
+      "Financial inclusion"
+    ],
+    "documents_required": [
+      "Identity proof",
+      "BPL card or income certificate",
+      "Bank account details"
+    ],
+    "how_to_apply": "Join/form a Self Help Group in your village under NRLM.",
+    "link": "https://aajeevika.gov.in/",
+    "category": "Livelihood",
+    "implementing_agency": "Ministry of Rural Development",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["All"],
+      "income": ["Below poverty line"],
+      "location": ["All"]
+    }
+  },
+  {
+    "id": "mmsy",
+    "name": "Mahila Shakti Kendra Scheme",
+    "description": "Scheme to empower rural women through community participation.",
+    "eligibility": "Rural women.",
+    "benefits": [
+      "Awareness generation regarding various government programs",
+      "Capacity building and training",
+      "Employment opportunities through skill development"
+    ],
+    "documents_required": [
+      "Identity proof",
+      "Address proof"
+    ],
+    "how_to_apply": "Visit nearest Mahila Shakti Kendra.",
+    "link": "https://wcd.nic.in/schemes/mahila-shakti-kendras-msk",
+    "category": "Women Empowerment",
+    "implementing_agency": "Ministry of Women and Child Development",
+    "target_demographics": {
+      "min_age": 18,
+      "max_age": 120,
+      "gender": ["Female"],
+      "income": ["All"],
+      "location": ["All"]
+    }
+  }
+] 
